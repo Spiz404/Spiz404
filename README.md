@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **rust**
 
-- 👨‍💻 All of my projects are available at [(a portafolio will be available asap)]((a portafolio will be available asap))
-
 - 📫 How to reach me **lorespiz03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
