@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lorenzo</h1>
 <h3 align="center">A software engineer and computer science student from Italy</h3>
 
-- 🔭 I’m currently working on **graph & algos visualization tool and a portfolio website**
+- 🔭 I’m currently working on **graph & algos visualization tool and a telegram bot**
 
 - 🌱 I’m currently learning **rust**
 
