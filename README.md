@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **graph & algos visualization tool and a telegram bot**
 
-- 🌱 I’m currently learning **rust**
+- 🌱 I’m currently learning **typescript**
 
 - 📫 How to reach me **lorespiz03@gmail.com**
 
